@@ -29,7 +29,7 @@ public class Employer extends AbstractEntity {
 
         return jobs;
     }
-    /* public Employer( String location) {  I can't wrap my head around if I will reference at some point so comment out and come back to, gotta keep it movin
+    /* public Employer( String location) {  I can't wrap my head around if I will reference at some point so comment out and come back to if needed, gotta keep it movin
 
         this.location = location;
 
